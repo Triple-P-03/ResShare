@@ -5,7 +5,7 @@ export function Videocard(p: any) {
   const [isHovered, setIsHovered] = useState(false);
   return (
     <div
-      className="w-full max-w-md border rounded-lg overflow-hidden shadow-md bg-black  "
+      className="w-full max-w-md border rounded-lg overflow-hidden shadow-md bg-gray-800  "
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
