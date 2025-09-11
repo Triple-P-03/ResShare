@@ -10,7 +10,7 @@ export function Videocard(p: any) {
       onMouseLeave={() => setIsHovered(false)}
     >
       {isHovered ? (
-        <video src={p.source} autoPlay controls muted></video>
+        <video src={p.source} autoPlay controls muted loop></video>
       ) : (
         <img src={p.thumb} alt="video thumbnail" className="w-full h-auto" />
       )}
