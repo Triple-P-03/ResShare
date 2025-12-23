@@ -17,14 +17,14 @@ function App() {
         <Videocard
           source="/file/1.webm"
           thumb="/file/thanos.jpg"
-          title="Bling Bang Bang Born : A Creepy Nut Song"
-          desc="Title track from the anime, Mashle "
+          title="Shinunoga e wa"
+          desc="Random song"
         ></Videocard>
         <Videocard
-          source="/file/3.mp4"
+          source="/file/3.webm"
           thumb="/file/tom.jpg"
-          title="Bella Ciao :Money Hiest Banger from last season"
-          desc="Bella Ciao one last time "
+          title="Pal Pal"
+          desc="Talwinder singh "
         ></Videocard>
         <Videocard
           source="/file/2.mp4"
@@ -35,14 +35,14 @@ function App() {
         <Videocard
           source="/file/1.webm"
           thumb="/file/thanos.jpg"
-          title="Bling Bang Bang Born : A Creepy Nut Song"
-          desc="Title track from the anime, Mashle "
+          title="Shinunoga e wa"
+          desc="Random song"
         ></Videocard>
         <Videocard
-          source="/file/3.mp4"
+          source="/file/3.webm"
           thumb="/file/tom.jpg"
-          title="Bella Ciao :Money Hiest"
-          desc="Bella Ciao one last time "
+          title="Pal Pal"
+          desc="Talwinder singh "
         ></Videocard>
         <Videocard
           source="/file/2.mp4"
@@ -53,14 +53,14 @@ function App() {
         <Videocard
           source="/file/1.webm"
           thumb="/file/thanos.jpg"
-          title="Bling Bang Bang Born : A Creepy Nut Song"
-          desc="Title track from the anime, Mashle "
+          title="Shinunoga e wa"
+          desc="Random song"
         ></Videocard>
         <Videocard
-          source="/file/3.mp4"
+          source="/file/3.webm"
           thumb="/file/tom.jpg"
-          title="Bella Ciao :Money Hiest"
-          desc="Bella Ciao one last time "
+          title="Pal Pal"
+          desc="Talwinder singh "
         ></Videocard>
         <Videocard
           source="/file/2.mp4"
@@ -71,33 +71,16 @@ function App() {
         <Videocard
           source="/file/1.webm"
           thumb="/file/thanos.jpg"
-          title="Bling Bang Bang Born : A Creepy Nut Song"
-          desc="Title track from the anime, Mashle "
+          title="Shinunoga e wa"
+          desc="Random song"
         ></Videocard>
         <Videocard
-          source="/file/3.mp4"
+          source="/file/3.webm"
           thumb="/file/tom.jpg"
-          title="Bella Ciao :Money Hiest"
-          desc="Bella Ciao one last time "
+          title="Pal Pal"
+          desc="Talwinder singh "
         ></Videocard>
-        <Videocard
-          source="/file/2.mp4"
-          thumb="/file/spider.jpg"
-          title="Interstellar: A Stunning Composition"
-          desc="Title track from the movie Interstellar"
-        ></Videocard>
-        <Videocard
-          source="/file/1.webm"
-          thumb="/file/thanos.jpg"
-          title="Bling Bang Bang Born : A Creepy Nut Song"
-          desc="Title track from the anime, Mashle "
-        ></Videocard>
-        <Videocard
-          source="/file/3.mp4"
-          thumb="/file/tom.jpg"
-          title="Bella Ciao :Money Hiest"
-          desc="Bella Ciao one last time "
-        ></Videocard>
+      
       </div>
     </div>
   );
